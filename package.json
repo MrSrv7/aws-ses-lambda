@@ -1,0 +1,10 @@
+{
+  "name": "welcomemail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "MrSrv7",
+  "dependencies": {
+    "aws-sdk": "^2.1328.0"
+  }
+}
